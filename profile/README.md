@@ -1,15 +1,25 @@
 ## Guía de repositorios
 
-- [Introducción](https://github.com/ET12Objetos/Introduccion)
+- Introducción
     - Como crear una clase, como se compose una clase
     - Definir atributos y métodos en la clase
     - Instanciar un objeto de la creada previamente
     - Definir método constructor
     - Definir métodos getter y setters
-    - Crear un programa con multiples archivos
+    - Crear un programa con multiples archivos, importar dependencias
 - Diagrama de clases
     - Estructura del diagrama
     - Clasificacion de relaciones
 - Composicion
+    - Simple y multiple
+    - Agregacion
+    - Listas (instanciar, agregar y leer) - Método foreach
+    - Clase estática
+- Biblioteca
+    - Creacion de solucion de proyectos
+    - Agregar proyectos a solucion existentes
+    - Crear dependencias entre proyectos
+- Listas
+    - Métodos para Buscar con Generics y Linq
 - Herencia
 - Polimorfismo
