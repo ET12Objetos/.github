@@ -12,14 +12,27 @@
     - Clasificacion de relaciones
 - Composicion
     - Simple y multiple
-    - Agregacion
+    - Agregacion y Composicion
     - Listas (instanciar, agregar y leer) - Método foreach
     - Clase estática
-- Biblioteca
-    - Creacion de solucion de proyectos
-    - Agregar proyectos a solucion existentes
-    - Crear dependencias entre proyectos
 - Listas
     - Métodos para Buscar con Generics y Linq
 - Herencia
+    - Herencia simple y multiple
+    - Orden de ejecucion de constructores
+    - Clases public, internal, sealed     
 - Polimorfismo
+- Proyectos
+    - Creacion de solucion de proyectos
+    - Agregar proyectos a solucion existentes
+    - Crear dependencias entre proyectos
+    - Proyecto de Biblioteca
+    - Proyecto de Pruebas Unitarias (Unit Tests)
+- Proyecto de WebAPI
+    - Endpoints, Métodos HTTP, Request y Response, Body, Status Code
+    - Consumo de WebAPI externas
+    - Conexion a base de datos (EF Core mediante migraciones y scaffold)
+    - Inyeccion de dependencia de servicios
+    - Uso de paquetes nuget para proyectos
+    - Uso de swagger
+
